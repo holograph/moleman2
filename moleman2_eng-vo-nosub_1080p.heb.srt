@@ -1,7 +1,7 @@
-﻿1
+1
 00:02:46,320 --> 00:02:50,040
 So it continues, but where did it start?
-אז זה ממשיך, אך כיצד זה התחיל?
+אז זה ממשיך, אך כיצד זה החל?
 
 2
 00:02:50,040 --> 00:02:53,160
@@ -31,15 +31,15 @@ to express themselves through numbers?
 6
 00:03:18,600 --> 00:03:21,800
 In the 1980’s, something changed the world forever.
-בשנות ה80' של המאה העשרים, משהו
-שינה את העולם לעד.
+בשנות ה80' של המאה העשרים, קרה משהו
+ששינה את העולם לעד.
 
 7
 00:03:21,800 --> 00:03:27,800
 Computer technology, mostly due to the appearance 
 of affordable Commodore 64’s, entered households worldwide,
-מחשבים, בעיקר עקב הופעתו בשוק של הקומודור 64 (Commodore)
-הוכנסה למילוני בתים ברחבי העולם
+טכנולוגית מחשבים, בעיקר עקב הופעתו בשוק של הקומודור 64 (Commodore),
+חדרה למילוני בתים ברחבי העולם,
 
 8
 00:03:27,800 --> 00:03:31,640
@@ -70,7 +70,7 @@ creator to produce visuals and sound effects
 12
 00:03:52,400 --> 00:03:56,000
 and combine them to create the ultimate audiovisual experience,
-לשלב אותם לחוויה החזותית-קולית האולטימטיבית,
+לשלב אותם לחוויה האור-קולית האולטימטיבית,
 
 13
 00:03:56,000 --> 00:04:00,800
@@ -96,12 +96,12 @@ animated music video which is usually a few minutes long.
 16
 00:04:20,880 --> 00:04:24,160
 And yet it’s something entirely different from a traditional video.
-עם זאת, דמואים שונים באופן מהותי מוידאו מסורתי:
+עם זאת, דמואים שונים באופן מהותי מוידאו מסורתי.
 
 17
 00:04:24,160 --> 00:04:26,720
 - So it’s not a video or an audio file.
-- אז זה לא קובץ וידאו או אודיו.
+- אז זה לא קובץ וידאו או מוסיקה.
 
 18
 00:04:26,720 --> 00:04:28,960
@@ -142,7 +142,7 @@ that have, for example, two levels out of two hundred.
 - A demo in the demoscene is an artwork
 that has nothing to do with game demos.
 - דמו במינוחי הסצינה הוא יצירת אמנות,
-  שאין לה דבר וחצי דבר עם משחקי מחשב.
+  שאין לה כלל קשר למשחקי מחשב.
 
 24
 00:05:07,680 --> 00:05:12,520
@@ -193,7 +193,7 @@ Has a self-admitted problem with finishing demos.
 00:05:43,520 --> 00:05:48,120
 - You can either do abstract, you can have a plan.
 There are so many different things,
-- אפשר ליצור מופשט, אבל ליצור על פי תוכנית.
+- אפשר ליצור מופשט, או ליצור על פי תוכנית.
   יש כל כך הרבה אפשרויות,
 
 32
@@ -221,7 +221,7 @@ more simple, smaller, more efficiently.
 00:06:04,880 --> 00:06:16,400
 - The point of a demo is to create an music-video-like experience 
 using visuals and audio that you can really enjoy watching.
-- הפואנטה של דמו זה ליצור חויה כמו של קליפ מוסיקה
+- הפואנטה של דמו היא ליצור חויה כמו של קליפ מוסיקה
   באמצעים חזותיים וקוליים שהיוצר באמת נהנה מהם.
 
 36
@@ -299,13 +299,13 @@ the world’s most renowned computer graphics conference.
 - In the ‘90s when we started getting serious about
 this kind of stuff, we were continually surprised by demos,
 - בשנות ה90', כשהתחלנו לקחת את העניין ברצינות,
-  היינו מופתעים רעיונית מדמואים
+היינו מופתעים כל פעם מחדש מדמואים,
 
 48
 00:07:43,320 --> 00:07:48,160
 - because we saw things on the screen
 that we didn’t think were possible.
-- משהו שראינו דברים קורים על המסך
+- משום שראינו דברים קורים על המסך
   שחשבנו שהם בלתי-אפשריים לביצוע.
 
 49
@@ -325,13 +325,13 @@ and impressive way of rendering graphics.
 51
 00:08:05,240 --> 00:08:07,160
 The similarities don’t end there.
-הדמיון לא מפסיק כאן.
+הדמיון לא מסתיים כאן.
 
 52
 00:08:07,160 --> 00:08:13,280
 The birth and eventual popularity of the demoscene can be 
 largely attributed to the appearance of computer games,
-הסצינה חייבת את לידתה והפופולריות לה היא זכתה
+הסצינה חייבת את לידתה והפופולריות לה זכתה
 להופעה בשוק של מחשקי מחשב,
 
 53
@@ -339,7 +339,7 @@ largely attributed to the appearance of computer games,
 the removal of their copy protection,
 and their subsequent distribution.
 התהליך של פריצתם (הסרת ההגנות מפני העתקה)
-והפצתם מרגע פריצה מוצלחת ואילך.
+והפצתם לאחר פריצה מוצלחת.
 
 54
 00:08:18,920 --> 00:08:27,120
@@ -367,7 +367,7 @@ prepend a picture in front of the game, for example.
 - They added text scrollers and greetings
 and it got more and more complex.
 - הם הוסיפו טקסט נגלל (scroller), ברכות
-לחברים (greetings) וזה נהיה מסובך יותר ויותר.
+לחברים (greetings) וזה הלך ונהיה מורכב יותר ויותר.
 
 58
 00:08:51,680 --> 00:08:55,960
@@ -393,7 +393,7 @@ it said that the demoscene is “digital graffiti.”
 - saying “We’re cool because we 
 cracked this game and you didn’t.”
 - כסוג של הצהרה: "אנחנו מגניבים כי
-  פרצנו את המשחק הזה, ואתה לא"
+  פרצנו את המשחק הזה, ואתם לא."
 
 62
 00:09:30,960 --> 00:09:38,400
@@ -419,7 +419,7 @@ about the game and only watched the intros.
 - And I was also one of those people! I liked the music a lot,
 the fonts were cool, and they did some unbelievable things.
 - ואני הייתי בדיוק כזה! אהבתי את המוסיקה, הגופנים
-  (פונטים) היו מגניבים והם עשו דברים שקשה להאמין
+  (פונטים) היו מגניבים והם עשו דברים שקשה להאמין.
 
 66
 00:09:59,800 --> 00:10:05,240
@@ -470,765 +470,1035 @@ instead of just playing games.
 73
 00:10:47,760 --> 00:10:51,600
 Slyspy. Musician, graphics artist, member of United Force.
+‏Slyspy‪.‬ מוסיקאי, גרפיקאי, חבר בקבוצת United Force.
 
 74
 00:10:51,600 --> 00:10:54,880
 Has quite possibly written more music
 than any other Hungarian scener,
+כתב ככל הנראה יותר מוסיקה מכל חבר אחר בסצינה ההונגרית,
 
 75
 00:10:54,880 --> 00:11:00,000
 and has recently gained popularity outside Hungary
 after he started making his own demos and animations.
+ולאחרונה זוכה לפופולריות מחוץ להונגריה לאחר שהחל
+ליצור דמואים ואנימציות משלו.
 
 76
 00:11:00,720 --> 00:11:06,880
 - We met at the 'Csoki', the Csokonay Community House,
+- נפגשנו ב"צ'וקי", המתנ"ס המקומי,
 
 77
 00:11:06,880 --> 00:11:13,360
 - that was the center of the Hungarian 
 computer culture, the weekend club.
+‫-‬ שהיה המרכז של תרבות המיחשוב ההונגרית,
+  מועדון סוף השבוע.
 
 78
 00:11:13,360 --> 00:11:18,240
 - That was where I first saw demos on the C64,
 and I immediately took a liking to them.
+‫-‬ שם ראיתי לראשונה דמואים על הקומודור 64,
+  והתאהבתי מיד.
 
 79
 00:11:18,240 --> 00:11:25,240
 - For a few years I was just interested,
 then as groups started forming,
+‫-‬ למשך כמה שנים הייתי רק סקרן,
+  ואז כשהחלו לקום קבוצות דמואים...
 
 80
 00:11:25,240 --> 00:11:31,080
 - I slowly got involved in it 
 like other people doing these things.
+‫-‬ התחלתי להיות מעורב לאט לאט,
+  כמו אנשים אחרים שעסקו בזה.
 
 81
 00:11:32,400 --> 00:11:35,600
 In the last 30 years, the demoscene, 
 having evolved from cracktros,
+בשלושים השנים האחרונות, הסצינה שהתפתחה מאותם
+קדימונים (cracktros),
 
 82
 00:11:35,600 --> 00:11:39,320
 as well as computer science itself, 
 has gone through radical changes. 
+כמו גם מדעי המחשב עצמם, עברה מהפכות משמעותיות.
 
 83
 00:11:39,320 --> 00:11:42,600
 Over time, the tools, the limits, 
 and the purpose have all changed.
+לאורך הזמן הכלים, הגבולות והייעדים - כולם השתנו.
 
 84
 00:11:42,600 --> 00:11:55,160
 - Back then it all revolved around coding, exploiting tight 
 hardware limitations, like on an 8-bit C64 or an Amiga.
+‫-‬ בזמנו הכל סבב סביב תכנות, לנצל את יכולות המכונה
+  עד תום, על מחשבי 8-ביט כמו הקומודור 64, ועל האמיגה.
 
 85
 00:11:55,160 --> 00:12:00,080
 - In those days the attitude was 
 “we’ll prove that we’re the best.”
+- בימים ההם הגישה הייתה להוכיח שאתה הטוב היותר.
 
 86
 00:12:00,080 --> 00:12:06,080
 - World records were easy to measure, because 
 like the C64, all the computers had the same capabilities.
+‫-‬ היה קל מאוד למדוד שיאים שונים, משום שלמחשבים
+  כמו קומודור 64 היו בדיוק אותן יכולות.
 
 87
 00:12:06,080 --> 00:12:15,160
 - So they went for world records for drawing the 
 most sine-dots or largest number of wavy scrollers.
+‫-‬ אז קבוצות הדמואים התחרו על דברים כמו לצייר גל סינוס
+  עם הכי הרבה נקודות, או הכי הרבה scrollerים בו-זמנית.
 
 88
 00:12:15,160 --> 00:12:19,520
 - And if someone could drew 250 dots,
 but his neighbor was able to draw 253,
+‫-‬ ואז אם מישהו יכל לשים על המסך 250 נקודות בו-זמנית,
+  אבל השכן שלו הצליח לצייר 253,
 
 89
 00:12:19,520 --> 00:12:24,640
 - it escalated into a 48-hour caffeine marathon 
 to figure out how to draw 257.
+‫-‬ זה הסלים למרתונים רווי-קפה של 48 שעות בניסיון
+  לצייר 257.
 
 90
 00:12:32,280 --> 00:12:37,200
 - The limits are broader now, so it’s more about design.
+‫-‬ המחשבים חזקים יותר כיום, הגבולות רחבים בהרבה
+  אז עכשיו התחרות היא יוצר על עיצוב אמנותי.
 
 91
 00:12:37,200 --> 00:12:45,280
 - Demos try to be unique artistically, but still,
 the demos that gain the most respect are the ones
+‫-‬ דמואים מנסים להיות ייחודיים אמנותית, אך
+  גם היום הדמואים שזוכים להכי הרבה כבוד
 
 92
 00:12:45,280 --> 00:12:53,200
 - that are exciting both codewise
 - by pushing limitations - and also artistically.
+‫-‬ הם אלה שמרשימים מבחינת התכנות - ע"י פריצת
+  הגבולות - אך לא מחפפים אמנותית.
 
 93
 00:12:53,200 --> 00:12:59,760
 - The point is to present a product
 that makes people sh*t themselves!
+‫-‬ הפואנטה היא להציג "מוצר" שיגרום לאנשים
+  לחרבן במכנסיים!
 
 94
 00:13:10,120 --> 00:13:15,560
 Of course, this is the easiest to achieve when the 
 audience knows the limitations of that given computer,
+הכי כל להשיג מטרה זאת, כמובן, כאשר
+הקהל מכיר את המגבלות של מחשב נתון,
 
 95
 00:13:15,560 --> 00:13:17,800
 and is aware of the technical possibilities.
+ומודע למה ניתן לעשות איתו טכנית.
 
 96
 00:13:17,800 --> 00:13:21,640
 Naive observers may not be 
 astonished by a rotating cube,
+ייתכן שלצופה מהצד לא ברור מה מרשים מקובייה מסתובבת,
 
 97
 00:13:21,640 --> 00:13:27,760
 even though perhaps even the engineers creating the computer 
 wouldn't have thought that to be possible on the system in question.
+אך ייתכן בהחלט שהמהנדסים שתכננו ובנו את המחשב
+לא חשבו שזה בכלל יהיה אפשרו על המכונה שלהם.
 
 98
 00:13:27,760 --> 00:13:31,840
 As limitations expanded, it has become 
 possible to create spectacular demos
+עם התרחבות הגבולות של מה שניתן לבצע עם מכונה,
+נהיה אפשרי ליצור דמואים מרהיבים חזותית,
 
 99
 00:13:31,840 --> 00:13:34,960
 that can be enjoyed without a particular technical knowledge. 
+שניתן להינות מהם ללא שום ידע טכני מוקדם.
 
 100
 00:13:34,960 --> 00:13:38,520
 This can also be attributed to a change in artistic perspective.
+ניתן לייחס זאת גם לשינוי בנקודת מבט אמנותית.
 
 101
 00:13:38,520 --> 00:13:47,560
 - Nowadays the roles are more diffuse, demos and intros
 usually have a sort of a producer or director
+‫-‬ כיום התפקידים (של חברי הקבוצה) יותר מגוונים;
+  לדמואים יש בדרך כלל סוג של מפיק או במאי,
 
 102
 00:13:47,560 --> 00:13:55,840
 - who has a vision for the final big picture,
 and they’re the ones trying to manage the workflow.
+‫-‬ להם יש חזון ברור ל"תמונה הגדולה", והם אלה
+  שמכוונים ומנסים לנהל את תהליך העבודה.
 
 103
 00:13:55,840 --> 00:13:57,840
 - The director.
 - Yeah, the director.
+‫-‬ הבמאי.
+- כן, הבמאי.
 
 104
 00:13:57,840 --> 00:14:03,720
 - Some demos are purely about technology,
 “Look, I made a cool effect, whoa, great.”
+‫-‬ יש דמואים שהם לגמרי טכניים: "תראו,
+  עשיתי אפקט חדש מגניב."
 
 105
 00:14:03,720 --> 00:14:12,280
 - Some don’t use much new technology,
 but they look great, and that’s their point.
+‫-‬ חלקם לא מחדשים הרבה טכנית, אך הם
+  נראים נהדר, וזו מטרתם.
 
 106
 00:14:12,280 --> 00:14:20,480
 - And there are some which, well,
 try to convey some kind of message.
+‫-‬ ויש דמואים שמנסים, ובכן, מנסים להעביר
+  מסר כלשהוא.
 
 107
 00:14:21,840 --> 00:14:29,120
 On Tuesday, I realized that I help people
 sell other people stuff they don’t really need.
+ביום שלישי הבנתי שאני עוזר לאנשים למכור
+דברים שהם לא צריכים לאנשים אחריםץ
 
 108
 00:14:29,120 --> 00:14:32,360
 This happened during lunch.
+זה קרה במהלך ארוחת הצהריים.
 
 109
 00:14:32,480 --> 00:14:39,960
 - It’s become harder to appreciate demos that 
 only display a cube or a good looking 3D scene
+‫-‬ נהיה קשה יותר ויותר להעריך דמואים שרק
+  מציגים קוביה או סצנה תלת-ממדית שנראית טוב.
 
 110
 00:14:39,960 --> 00:14:45,320
 - even if it looks good, it needs to have 
 a concept to really be appreciated.
+‫-‬ אפילו אם זה נראה מצויין, צריך להיות שם
+  איזהשהו רעיון מנחה (קונספט) כדי להיות מוערך.
 
 111
 00:14:46,080 --> 00:14:50,440
 Gargaj. Coder, musician, member of 
 Conspiracy and Ümlaüt Design.
+‏Gargaj. מתכנת, מוסיקאי, חבר בקבוצות Conspiracy
+ו-Ümlaüt Design.
 
 112
 00:14:50,440 --> 00:14:55,720
 Main organizer of the Function demoparty,
 actively takes part in a variety of foreign events.
+המארגן הראשי של מסיבת הדמואים Function,
+לוקח חלק פעיל במגוון ארועים בינלאומיים.
 
 113
 00:14:58,600 --> 00:15:04,400
 - A part of the thing that the United States doesn’t
 often see about the demoscene is how social it is.
+‫-‬ חלק מהותי בסצינה שהרבה פעמים לא רואים בארה"ב
+  הוא שהסצינה היא ביסודה מאוד חברתית.
 
 114
 00:15:04,400 --> 00:15:06,160
 - It’s a very social thing.
+‫-‬ זו תופעה חברתית במהותה.
 
 115
 00:15:14,080 --> 00:15:20,160
 The small community of the scene itself is as important 
 to keep the creation process alive as the artists themselves.
+הקהילה הקטנה של סצינת הדמואים חיונית להמשכיות
+היצירה בדיוק כמו האמנים עצמם.
 
 116
 00:15:20,160 --> 00:15:24,400
 The communal event of the subculture
 itself is called the demoparty,
+הארוע החברתי של הסצינה עצמה נקרא
+מסיבת דמואים (demoparty),
 
 117
 00:15:24,400 --> 00:15:30,960
 a computer-related event where fans of the scene compare 
 their skills, exchange experiences and ideas, and socialize.
+ארוע מחשוב בו חברי הסצינה ומשוגעים לדבר משווים
+את יכולותיהם, מחליפים חוויות ורעיונות, ומתיידדים.
 
 118
 00:15:30,960 --> 00:15:36,760
 Productions are entered in a variety of categories and 
 ultimately they’re subjected to a final audience vote. 
+יצירות מתחרות במגוון קטגוריות, ולבסוף הקהל
+הוא זה שמצביע על היצירות המוצלחות ביותר.
 
 119
 00:15:36,760 --> 00:15:39,440
 In essence, these parties keep the demoscene running.
+המסיבות הן אלה ששומרות על הסצינה חיה ובועטת.
 
 120
 00:15:39,440 --> 00:15:46,320
 - Very few people do productions “just for kicks”,
 to release them on some website;
+‫-‬ מעט מאוד אנשים יוצרים "סתם בשביל הכיף,"
+  ומשחררים את היצירות שלהם על איזה אתר אינטרנט;
 
 121
 00:15:46,320 --> 00:15:53,200
 - the idea is usually to enter a competition at a party,
 and to see it on the bigscreen and hear it on the PA, 
+‫-‬ הרצון הוא בדרך כלל להירשם לתחרות באחת המסיבות,
+  לראות ולשמוע את היצירה שלך על המסך הגדול,
 
 122
 00:15:53,200 --> 00:15:58,240
 - and the audience either likes it or it doesn’t,
 but at least it has an effect on them.
+‫-‬ והקהל אוהב את היצירה שלך או שלא,
+  אבל לפחות יש לה השפעה כלשהיא.
 
 123
 00:16:04,200 --> 00:16:10,560
 - We are a bunch of opinionated people
 who like to see people make things.
+‫-‬ אנחנו חבורה של אנשים דעתניים,
+  שאוהבים לראות אנשים בונים ויוצרים.
 
 124
 00:16:10,560 --> 00:16:17,840
 - Seeing your work on a bigscreen, being watched and applauded 
 by two hundred people, there’s nothing better than that!
+‫-‬ כשהיצירה שלך מוצגת, נצפית ומקבלת מחיאות כפיים
+  מכמה מאות אנשים… אין דבר טוב מזה!
 
 125
 00:16:23,520 --> 00:16:29,400
 - Some people like to release demos to
 for the challenge of beating other teams.
+‫-‬ יש אנשים שאוהבים ליצור דמואים למען האתגר
+  שבלנצח קבוצות אחרות.
 
 126
 00:16:29,400 --> 00:16:33,760
 - Some people enjoy just competing.
+‫-‬ יש אנשים שפחות אוהבים להתחרות.
 
 127
 00:16:33,760 --> 00:16:38,600
 - Some people enjoy going to the competitions and entering 
 something that they know other people are going to hate.
+‫-‬ יש אנשים שאוהבים לרשום לתחרויות יצירות שהם
+  יודעים שאנשים אחרים ישנאו.
 
 128
 00:16:42,640 --> 00:16:45,120
 The roots of demoparties reach back to the 80’s,
+השורשים של מסיבות הדמואים נעוצים אי שם בשנות השמונים,
 
 129
 00:16:45,120 --> 00:16:50,040
 and their existence can also be owed
 to illegally cracked and distributed games.
+וגם הן קיימות הודות לפריצה והפצה בלתי-חוקית של
+משחקי מחשב.
 
 130
 00:16:53,480 --> 00:16:59,040
 - These parties were originally copyparties,
 people came together to copy stuff. 
+- המסיבות האלה היו במקורן "מסיבות העתקה,"
+  אנשים באו כדי להעתיק משחקים ותוכנות זה מזה.
 
 131
 00:16:59,040 --> 00:17:01,320
 - You mean you couldn’t just steal stuff
+‫-‬ אתה מתכוון שלא יכלת סתם לגנוב דברים?
 
 132
 00:17:01,320 --> 00:17:05,400
 - Sure you could, but you had no Internet back then,
 and besides postal mail,
+‫-‬ ודאי שיכלת, אבל הרשת (אינטרנט) לא הייתה
+  קיימת בזמנו, ולכן חוץ מדואר רגיל,
 
 133
 00:17:05,400 --> 00:17:08,880
 - the easiest method was to just drop by 
 your neighbour’s and copy a floppy.
+- הדרך הקלה ביותר הייתה פשוט לקפוץ לשכן
+  ולהעתיק דיסקט.
 
 134
 00:17:08,880 --> 00:17:11,760
 - And if you had more than forty 'neighbours', 
 you rented out a hall.
+‫-‬ ואם היו לך יותר מארבעים "שכנים" כאלה,
+  שכרת אולם.
 
 135
 00:17:27,080 --> 00:17:34,240
 - They came together, they copied stuff,
 and eventually demos appeared,
+‫-‬ אנשים באו, העתיקו דברים זה מזה,
+  והדמואים בסופו של דבר נכנסו לתמונה,
 
 136
 00:17:34,240 --> 00:17:39,800
 - because some people were just 
 interested in making intros.
+‫-‬ כי חלק מהאנשים היו פשוט מעוניינים
+  בליצור אותם.
 
 137
 00:17:39,800 --> 00:17:48,200
 - Currently there’s only one party here in Hungary 
 that’s a multiplatform, 'PC' party, and there’s also an 8-bit one.
+‫-‬ כיום יש רק מסיבה אחת שמתקיימת כאן בהונגריה לכל
+  פלטפורמות המחשוב, ויש גם אחת למחשבי 8-ביט בלבד.
 
 138
 00:17:48,200 --> 00:17:56,440
 - There aren’t any serious prizes here, so it’s more about,
 I don’t know, the moral victory, the experience itself.
+‫-‬ הפרסים למנצחים אינם רציניים במיוחד, אז זה יותר,
+  לא יודע, ניצחון רוחני, החוויה עצמה.
 
 139
 00:17:57,600 --> 00:18:01,400
 Function is currently the biggest 
 Hungarian multi-platform demoscene party,
+‏Function היא ככל הנראה מסיבת הדמואים הגדולה
+ביותר בהונגריה למגוון פלטפורמות מחשוב,
 
 140
 00:18:01,400 --> 00:18:05,400
 hosting 150-200 enthusiasts annually since 2003.
+ומבקרים בה 150-200 משוגעים לדבר כל שנה מאז 2003.
 
 141
 00:18:05,400 --> 00:18:08,480
 About a quarter of them participate
 in the competitions as well.
+כרבע מהם גם משתתף בתחרויות.
 
 142
 00:18:08,480 --> 00:18:20,600
 - The hard core was always around 100-200 people, and that has 
 since shrunk to 50-60, so we know each other pretty well by now.
+‫-‬ הגרעין הקשה תמיד היה סביב 150-200 איש, ומאז התכווץ
+  ל-50-60 איש, כך שאנחנו מכירים אחד את השני טוב למדי.
 
 143
 00:18:22,360 --> 00:18:24,640
 - What do you expect from this kind of party?
+‫-‬ למה אתה מצפה מסוג כזה של מסיבה?
 
 144
 00:18:24,640 --> 00:18:31,560
 - Do you expect good demos, or do you expect the community 
 to show up? Is there a specific goal, or is it just 'there'?
+‫-‬ אתה מצפה לדמואים טובים, או שאתה מצפה שהקהילה
+  תופיע? יש מטרה מסויימת, או שזה מתקיים "סתם כך"?
 
 145
 00:18:31,560 --> 00:18:37,600
 - We expect people to show up, enjoy themselves,
 and bring great productions.
+‫-‬ אנחנו מצפים מאנשים להופיע, להינות
+  ולהביא איתם יצירות מעולות,
 
 146
 00:18:37,600 --> 00:18:41,080
 - I couldn’t rank these things.
+‫-‬ לאו דווקא בסדר הזה.
 
 147
 00:18:41,080 --> 00:18:48,720
 - All I know is when a party ends and you look around
 at those 100-150-200 people who showed up 
+‫-‬ כל מה שאני יודע זה שכשהמסיבה מסתיימת, אתה
+  מסתכל מסביבך ורואה את אותם 150 או 200 איש -
 
 148
 00:18:48,720 --> 00:18:51,880
 - because that’s the size of Hungarian parties - 
+‫-‬ זה הגודל של המסיבות בהונגריה -
 
 149
 00:18:51,880 --> 00:19:00,560
 - then you just instinctively know that you have to
 do it again next year, period. I can’t explain why.
+‫-‬ אתה יודע מתוך דחף טבעי שאתה חייב לעשות את זה
+  שוב בשנה הבאה, נקודה. אני לא יכול להסביר למה.
 
 150
 00:19:00,560 --> 00:19:08,280
 - It’s about seeing happy people. Whether they’re happy
 because they saw great demos they never saw before,
+‫-‬ זה הכל במטרה לראות אנשים שמחים. בין אם בגלל
+  שהם ראו דמואים מעולים חדשים,
 
 151
 00:19:08,280 --> 00:19:18,680
 - or because they started chatting with someone next to them 
 and now they’re swapping sources and they got something to use later,
+‫-‬ או בגלל שהם התחילו לדבר עם מישהו שעמד לידם
+  ועכשיו הם מחליפים קוד מכונה (source) לשימוש בהמשך,
 
 152
 00:19:18,680 --> 00:19:26,520
 - or because they experienced that atmosphere
 when the organizers announce the start of the compo, 
+‫-‬ או בגלל שהם חוו את האווירה המיוחדת הזו כשהמארגנים
+  הודיעו על תחילתה של תחרות,
 
 153
 00:19:26,520 --> 00:19:31,960
 - and shut off the lights, and the first entry appears, 
 and they got shivers 
+‫-‬ ואז כבו האורות והיצירה הראשונה מופיעה על המסך,
+  והם קיבלו צמרמורת...
 
 154
 00:19:31,960 --> 00:19:38,720
 - All of these things happened to me when I started to go to parties, 
 and I couldn’t just pick one of them,
+‫-‬ כל הדברים האלה קרו לי כשהתחלתי ללכת למסיבות
+  דמואים, ולא הייתי יכול לבחור אחד מתוכם.
 
 155
 00:19:38,720 --> 00:19:48,480
 - all I know is that when I came back from my first party, 
 I thought “Yup, that was it, I’m sold, I gotta go to more of these”.
+‫-‬ אני יכול רק לומר שכשחזרתי מהמסיבה הראשונה שלו,
+  חשבתי לעצמי "כן, אני מכור, חייב ללכת לעוד כאלה."
 
 156
 00:19:48,480 --> 00:19:53,720
 - I was wondering whether it’s worth it to organize parties.
 I mean you don’t really get sponsors,
+‫-‬ תהיתי אם זה כְּדָאִי לארגן מסיבות דמואים.
+  אני מתכוון, אין לכם באמת נותני חסות,
 
 157
 00:19:53,720 --> 00:20:00,440
 - there are no products to sell, so it’s only organized for fun
 and for the purpose of meeting up, right?
+‫-‬ אין מוצרים למכור, אז הכל מאורגן בשביל הכיף
+  וכדי להיפגש, נכון?
 
 158
 00:20:00,440 --> 00:20:03,120
 - Financially, it’s not worth it. 
+‫-‬ מבחינה כלכלית, זה לא שווה את זה.
 
 159
 00:20:03,120 --> 00:20:12,320
 - We don’t get state funding, because what we do
 isn’t considered to be art or culture.
+‫-‬ אנו לא מקבלים מימון מהמדינה, כי מה שאנחנו עוסקים
+  בו לא נחשב לאמנות או אירוע תרבות.
 
 160
 00:20:12,320 --> 00:20:15,560
 -We don’t do this because it’s worth it or not.
+‫-‬ כדאיות אינה שיקול כאן.
 
 161
 00:20:15,560 --> 00:20:21,920
 - Sometimes people do things they know that aren’t worth it,
 but they do it because they know they have to.
+‫-‬ לפעמים אנשים עושים דברים שאינם כדאיים, אך הם
+  עושים אותם בכל זאת כי הם חייבים זאת לעצמם.
 
 162
 00:20:21,920 --> 00:20:24,200
 - We have a lot of returning foreign visitors. 
+‫-‬ יש לנו הרבה מבקרים מחו"ל שחוזרים שנה אחרי שנה.
 
 163
 00:20:24,200 --> 00:20:30,720
 - They not only show up to check where 'Bucharest' is,
 but because they’ve already been here and enjoyed it.
+‫-‬ הם לא מגיעים רק כדי לבדוק איפה זה בודפשט,
+  אלא כי הם כבר היו כאן ונהנו מזה.
 
 164
 00:20:34,520 --> 00:20:38,440
 Arles. A small town in Southern France, not far from Marseille.
+ארל. עיירה קטנה בדרום צרפת, לא רחוק ממרסיי.
 
 165
 00:20:38,440 --> 00:20:42,480
 It’s popular among visitors due to
 it’s authentic Mediterranean old town, 
+יעד פופולרי לתיירים בגלל שנמצאת בה עיר עתיקה
+ים-תיכונית אותנטית,
 
 166
 00:20:42,480 --> 00:20:45,880
 but in October, people are attracted for a different reason. 
+אך בחודש אוקטובר אנשים נמשכים אליה מסיבות אחרות.
 
 167
 00:20:45,880 --> 00:20:49,840
 In recent years, Arles hosted one of 
 France’s best known parties, MAIN,
+בשנים האחרונות, ארל אירחה את אחת ממסיבות הדמואים
+המוכרות ביותר בצרפת, Main,
 
 168
 00:20:49,840 --> 00:20:51,680
 partly organized by Hungarians.
+שרבים ממארגניה הונגרים.
 
 169
 00:20:51,680 --> 00:20:58,520
 - We organized a party in Hungary, and on the last two occasions, 
 the foreigners were watching the videostream over the Internet
+‫-‬ ארגנו מסיבת דמואים בהונגריה, ובפעמיים האחרונות אנשים
+  רבים מחו"ל צפו בה בהזרמת וידאו (streaming) באינטרנט,
 
 170
 00:20:58,520 --> 00:21:02,000
 - and later asked for our help with organizing their party.
+‫-‬ ולאחר מכן ביקשו מאיתנו עזרה בארגון המסיבה שלהם.
 
 171
 00:21:02,720 --> 00:21:06,480
 Pasy. Coder, organizer, member of 
 Fresh!Mindworkz and Rebels.
+‏Pasy. מתכנת, אמרגן, חבר בקבוצות Fresh‪!‬Mindworkz ו-Rebels.
 
 172
 00:21:06,480 --> 00:21:10,000
 Has quite possibly coded more demos 
 than any other Hungarian scener.
+תכנת ככל הנראה יותר דמואים מכל חבר-סצינה הונגרי אחר.
 
 173
 00:21:10,000 --> 00:21:12,560
 Technical lead organizer of the Main party in France.
+האמרגן הטכני הראשי של מסיבת Main בצרפת.
 
 174
 00:21:15,000 --> 00:21:21,320
 - First it was only me travelling to a meeting, 
 later I collected a team,
+- בהתחלה זה היה רק אני שנסעתי לפגישות,
+  ומאוחר יותר אספתי סביבי צוות,
 
 175
 00:21:21,320 --> 00:21:26,000
 - and eventually the entire technical team 
 ended up being Hungarians.
+‫-‬ וכך יצא שבסופו של דבר כל חברי צוות
+  המארגנים הטכני הם הונגרים.
 
 176
 00:21:29,080 --> 00:21:35,320
 - French organizers are much better with financial
 and political organizing, keeping contacts, that sort of stuff.
+‫-‬ המארגנים הצרפתים טובים בהרבה בארגון כלכלי
+  ופוליטי, יחסי-ציבור ודברים כאלה.
 
 177
 00:21:38,000 --> 00:21:42,800
 There are many similarities between Hungarian and foreign 
 parties, but there are plenty of differences as well,
+יש הרבה דמיון בין המסיבות ההונגריות ואלה מחוץ
+להונגריה, אך גם הרבה הבדלים,
 
 178
 00:21:42,800 --> 00:21:46,400
 not necessarily limited to the giant display
 mounted on the roof of the party hall,
+הכוללים בין היתר את מסך התצוגה הענק
+המוצב על גג ההיכל,
 
 179
 00:21:46,400 --> 00:21:50,120
 which incidentally provides a competition platform
 for a variety of productions as well.
+שמשמש כפלטפורמה למגוון תחרויות ויצירות.
 
 180
 00:22:07,520 --> 00:22:14,920
 - The budget for a Hungarian party is the amount
 they spend on two or three people here.
+- התקציב הכולל למסיבה בהונגריה זעום, שווה
+  ערך לתקציב עבור שניים-שלושה משתתפים בלבד פה.
 
 181
 00:22:14,920 --> 00:22:20,920
 - The heads of the association are 
 really good at finding sponsors,
+‫-‬ המארגנים הראשיים מעולים במציאת נותני-חסות,
 
 182
 00:22:20,920 --> 00:22:26,360
 - and art is curated a lot more here in France,
 it doesn’t matter what kind of art it is.
+‫-‬ ואמנות זוכה להרבה יותר תשומת לב מהממשלה והקהל
+  הרחב בצרפת, לא משנה באיזה סוג אמנות מדובר.
 
 183
 00:22:30,440 --> 00:22:35,440
 The demoscene is one of the few forms of art
 where the artists are all part of one collective.
+סצינת הדמואים היא אחד מסוגי האמנות היחידים
+בהם האמנים כולם מתפקדים כחברים בהתאגדות אחת.
 
 184
 00:22:35,440 --> 00:22:40,040
 It’d be hard to imagine multiple, independent 
 communities or outlets of expression
+קשה לדמיין מספר קהילות עצמאיות, 
 
 185
 00:22:40,040 --> 00:22:45,040
 or that someone would create demos while detached
 from the main community, publishing works in different places.
+או שמישהו ייצור דמו בנפרד מהקהילה הראשית,
+ויפרסמם במקומות אחרים.
 
 186
 00:22:45,040 --> 00:22:49,040
 - If people stop making parties, demoscene will die.
+‫-‬ אם אנשים יפסיקו לארגן מסיבות דמואים,
+  הסצינה תגווע ותמות.
 
 187
 00:22:49,040 --> 00:22:55,320
 - Because you need real contact in real life
 with people you make demos with,
+‫-‬ צריך קשר בחיים האמיתיים עם החברים
+  שיוצרים עימם דמואים,
 
 188
 00:22:55,320 --> 00:23:00,320
 - and you meet with to talk, 
 even it is just once-twice a year.
+‫-‬ וחייבים להיפגש ולדבר - אפילו אם זה
+  רק פעם או פעמיים בשנה.
 
 189
 00:23:00,320 --> 00:23:03,000
 - You feel the demoscene when 
 you are talking with the people.
+- אתה מרגיש את הסצינה כשאתה מדבר עם אנשים.
 
 190
 00:23:05,960 --> 00:23:10,520
 - It has happened that a demo was 
 played for which I have written the music,
+‫-‬ קרה פעם שכתבתי מוסיקה לדמו, ואחרי שהוצג
 
 191
 00:23:10,520 --> 00:23:16,520
 - and someone walked up and asked
 whether I used a certain instrument or a certain synth,
+‫-‬ ניגש אליי מישהו ושאל אם השתמשתי בכלי נגינה
+  או סינטיסייזר מסויים,
 
 192
 00:23:16,520 --> 00:23:20,760
 - and we started talking and we’ve become friends.
+‫-‬ התחלנו לדבר ונהיינו חברים טובים.
 
 193
 00:23:20,760 --> 00:23:25,560
 - Our biggest rivals are also our best friends, 
 I’m happy to say that.
+‫-‬ אני שמח לומר שהמתחרים הגדולים ביותר שלנו
+  הם גם החברים הכי טובים.
 
 194
 00:23:29,880 --> 00:23:35,760
 Parties are of course not only about the competitions,
 but also about gaining experience and having fun.
+מסיבות הדמואים לא סובבות אך ורק את התחרויות,
+אלא גם נותנות הזדמנות לצבור ניסיון ופשוט לעשות חיים.
 
 195
 00:23:35,760 --> 00:23:40,760
 Aside from technical lectures, the schedules often
 consist of scene-related live acts or bands,
+חוץ מהרצאות טכניות, לוח הזמנים של המסיבות כולל
+לרוב מופעים חיים והופעות מוסיקליות שקשורות לסצינה,
 
 196
 00:23:40,760 --> 00:23:45,960
 and in several cases, a demoparty has become
 memorable not only because of the demos shown,
+ובמקרים אחדים המסיבה נהייתה ידועה לא בגלל
+שהוצגו בה דמואים מרשימים במיוחד,
 
 197
 00:23:45,960 --> 00:23:48,320
 but because of the actual party itself.
+כי אם בגלל המסיבה עצמה.
 
 198
 00:23:55,520 --> 00:24:01,560
 - At Polish parties it has happened that the
 organizing team was already drunk on the first day
+‫-‬ במסיבות בפולין כבר קרה בעבר שכל צוות המארגנים
+  השתכר לחלוטין כבר ביום הראשון,
 
 199
 00:24:01,560 --> 00:24:06,120
 - and people are arriving, trying to find the party
+‫-‬ עוד ועוד אנשים הגיעו וניסו למצוא את המסיבה,
 
 200
 00:24:06,120 --> 00:24:10,560
 - Finns just sit around drinking vodka 
 straight from the bottle
+‫-‬ פינים ישבו מסביב ושתו וודקה ישר מהבקבוק,
 
 201
 00:24:10,560 --> 00:24:14,320
 - and then someone walks up to 
 pee on someone else’s bicycle.
+‫-‬ ופתאום מישהו ניגש והשתין על האופניים של מישוה אחר.
 
 202
 00:24:14,320 --> 00:24:17,760
 - There haven’t been any deaths though. 
 No deaths and no births.
+‫-‬ אך לעולם לא מת אף אחד - לא היו מיתות
+  ולא היו לידות.
 
 203
 00:24:23,040 --> 00:24:30,440
 - I’d like to know how it feels to be female in the scene,
 ‘cos it seems like a boys’ club.
+‫-‬ הייתי רוצה לדעת איך זה להיות בחורה שחברה בסצינה,
+  כי זה הרבה פעמים מרגיש כמו מועדון לבנים בלבד.
 
 204
 00:24:30,440 --> 00:24:35,640
 - Is it easy to find friends? ‘Cos it’s mostly males.
+‫-‬ קל למצוא חברים? כי כמעט כולם גברים.
 
 205
 00:24:35,640 --> 00:24:43,480
 - Sure, it’s not that hard. Of course everyone have
 their own little theories about how it works.
+‫-‬ בטח, זה לא כזה קשה. כמובן שלכולם יש תאוריות
+  לגבי איך זה עובד.
 
 206
 00:24:43,480 --> 00:24:50,320
 - When I started, there were already a few girls in 
 the scene all around Europe and in Hungary as well.
+‫-‬ כשהתחלתי בסצינה לראשונה כבר היו כמה בחורות
+  בסצינה ברחבי אירופה, ובהונגריה בפרט.
 
 207
 00:24:50,320 --> 00:25:01,400
 - You had musicians, graphics artists, coders,
 a lot of visitors, tagging along with their boyfriends.
+‫-‬ היו מוסיקאיות, גרפיקאיות, מתכנתות, והרבה מבקרות
+  שהגיעו עם החברים שלהן.
 
 208
 00:25:01,400 --> 00:25:11,240
 - I don’t know about activity,
 I’d guess it’s around 90/10, no? Or 80/20?
+‫-‬ ומה לגבי פעילות, הייתי מנחש שהיחס הוא 90/10?
+  או אולי 80/20?
 
 209
 00:25:11,240 --> 00:25:12,400
 - I’d say 80/20.
+‫-‬ הייתי אומרת 80/20.
 
 210
 00:25:16,080 --> 00:25:19,040
 Demos aren’t the only things to compete at parties:
+דמואים אינם הדברים היחידים עליהם מתחרים במסיבות;
 
 211
 00:25:19,040 --> 00:25:25,280
 other categories include pictures, music, standalone pieces 
 of code, even photos and miscellaneous other productions.
+בין יתר הקטגוריות ניתן למצוא ציור, מוסיקה, חתיכות קוד
+מבודדות, אפילו צילום וכל מני סוגי יצירה אחרים.
 
 212
 00:25:25,280 --> 00:25:29,040
 They do have one thing in common though:
 They’re mostly finished just before the deadline.
+אך לכל היצירות דבר אחד במשותף: כמעט את
+כולן מסיימים רק דקות לפני הדדליין.
 
 213
 00:25:30,120 --> 00:25:35,400
 - Everyone has way too little time to make demos,
 so things are left to the last minute.
+‫-‬ לכולם יש מעט מדי זמן לעשות דמואים,
+  אז דברים נותרים לרגע האחרון.
 
 214
 00:25:35,400 --> 00:25:41,400
 - You usually go without sleep for the last few days,
 only concentrating on your demo. 
+‫-‬ בדרך כלל מעבירים את כמה הימים לפני המסיבה
+  ללא שינה, ומתרכזים רק בלסיים את הדמו.
 
 215
 00:25:41,400 --> 00:25:50,160
 - That usually manifests as flaws and little imperfections,
 because they’re literally finished at the last minute,
+‫-‬ זה בא לידי ביטוי לעתים קרובות בפגמים ואי-שלמויות קטנות,
+  כיוון שכמעט תמיד עובדים על היצירה ממש עד הרגע האחרון,
 
 216
 00:25:50,160 --> 00:25:55,320
 - but this also provides a thrill that keeps people going.
+‫-‬ אבל זה מספק סוג מסויים של
+  ריגוש שגורם לאנשים להמשיך.
 
 217
 00:25:55,320 --> 00:26:00,240
 - So in a sense it’s like a mental extreme sport.
+‫-‬ אז מבחינה מסויימת זה כמו ספורט אקסטרים למוח.
 
 218
 00:26:00,240 --> 00:26:08,120
 - Sometimes it happens that the demo is finished at the party.
 -Yes, I heard that somebody is finishing at the last moment.
+‫-‬ לפעמים קורה שמסיימים את הדמו במסיבה עצמה.
+- כן, שמעתי שמישהו מסיים ממש בשנייה האחרונה.
 
 219
 00:26:08,120 --> 00:26:12,600
 - Someone is finishing the demo
 - It’s not like that, it’s not perfect, it’s not perfect.
+‫-‬ מישהו מסיים את הדמו?
+- זה לא ככה, זה לא מושלם, זה אף פעם לא מושלם.
 
 220
 00:26:12,600 --> 00:26:20,400
 - No, when I was leaving home, it still crashed at 
 the begining, there is still a few major flaws to be fixed.
+‫-‬ לא, כשעזבתי את הבית זה עדיין קרס על ההתחלה,
+  ועדיין יש הרבה בעיות מהותיות שצריך לתקן.
 
 221
 00:26:20,400 --> 00:26:27,600
 - It’s a whole different feeling to go to a party
 and have something to enter than to just attend
+‫-‬ זו הרגשה שונה לגמרי להגיע למסיבת דמואים כדי
+  להשתתף בתחרויות מאשר סתם להגיע כדי להיות כאן.
 
 222
 00:26:27,600 --> 00:26:32,160
 - It’s a whole different feeling to go to a party
 knowing you’re gonna spend the entire party in a corner
+‫-‬ זו הרגשה שונה לגמרי ללכת למסיבה כשאתה יודע
+  שתבלה את כולה באיזו פינה,
 
 223
 00:26:32,160 --> 00:26:34,280
 - in front of a laptop trying to hack something together.
+‫-‬ יושב מול המחשב שלך כדי לנסות ולקמבן משהו עובד.
 
 224
 00:26:34,280 --> 00:26:37,480
 - Yeah, it has happened, 
 even if it wasn’t the entire party.
+‫-‬ כן, זה קרה לי בעבר, גם אם לא לאורך כל המסיבה.
 
 225
 00:26:37,480 --> 00:26:43,960
 - But that has it’s charm too, sitting there working 
 on something, people come up, take a listen, take a look
+‫-‬ אבל יש לזה קסם משלו, לשבת שם ולעבוד על משהו,
+  וכל פעם מישהו עוצר כדי להקשיב או לראות...
 
 226
 00:26:43,960 --> 00:26:46,320
 - You can look up, check out someone else working
+‫-‬ אתה מסתכל מסביב לרגע ורואה מישהו אחר עובד
+  על משהו, בדיוק כמוך,
 
 227
 00:26:46,320 --> 00:26:52,000
 - You can ask for advice from other musicians, if you’re 
 working on music, or from other coders if you’re a coder.
+‫-‬ אתה יכול לבקש עצות ממוסיקאים אחרים אם אתה
+  עובד על מוסיקה, או מתכנתים אחרים אם אתה מתכנת.
 
 228
 00:26:52,000 --> 00:26:55,720
 - Yeah, if it crashes you just yell over,
 “Hey, could you check this out for me?”
+‫-‬ כן, אם זה קורס אתה יכול פשוט לצעוק לחלל החדר,
+  "מישהו יכול לבוא לעזור לי להבין מה קורה פה?"
 
 229
 00:26:55,720 --> 00:26:57,600
 - And you end up with three people debugging it.
+‫-‬ ולמצוא את עצמך עם שלושה אנשים שונים שמדבגים
+‏  (debugging, פתרון בעיות בתוכנה) את אותה בעיה.
 
 230
 00:27:05,720 --> 00:27:11,840
 - What’s the minimum amount of time 
 needed to make a demo?
+‫-‬ מה הזמן המינימלי הדרוש כדי ליצור דמו?
 
 231
 00:27:11,840 --> 00:27:13,720
 - 90 minutes.
+‫-‬ 90 דקות.
 
 232
 00:27:13,720 --> 00:27:20,040
 - Yeah, it can be anything 
 from 90 minutes to several years.
+‫-‬ כן, זה יכול להיות כל זמן בין 90 דקות לכמה שנים.
 
 233
 00:27:25,760 --> 00:27:32,800
